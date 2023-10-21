@@ -1,0 +1,317 @@
+[
+    {
+        "id": 1,
+        "category": "CPU",
+        "name": "Intel Core i9-11900K",
+        "price": 550,
+        "status": "Available",
+        "rating": 4.8,
+        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Intel_Core_i97740.jpg"
+    },
+    {
+        "id": 2,
+        "category": "CPU",
+        "name": "AMD Ryzen 9 5900X",
+        "price": 550,
+        "status": "Available",
+        "rating": 4.7,
+        "image": "https://imageio.forbes.com/specials-images/imageserve/5fa1cee16d7931ddd4054622/0x0.jpg?format=jpg&crop=3639,2426,x223,y172,safe&width=1200"
+    },
+    {
+        "id": 3,
+        "category": "CPU",
+        "name": "Intel Core i7-11700K",
+        "price": 550,
+        "status": "Available",
+        "rating": 4.6,
+        "image": "https://www.notebookcheck.net/fileadmin/Notebooks/Intel/Ice_Lake/intel_core_i7_11700k_chip.jpeg"
+    },
+    {
+        "id": 4,
+        "category": "CPU",
+        "name": "AMD Ryzen 5 5600X",
+        "price": 550,
+        "status": "Available",
+        "rating": 4.5,
+        "image": "https://www.techspot.com/articles-info/2135/images/2020-11-08-image-2.jpg"
+    },
+    {
+        "id": 5,
+        "category": "CPU",
+        "name": "Intel Core i5-11600K",
+        "price": 550,
+        "status": "Available",
+        "rating": 4.4,
+        "image": "https://www.cloud.ryanscomputers.com/cdn/products/main/bundle-with-pc-intel-11th-gen-rocket-lake-core-41619688318.webp"
+    },
+    {
+        "id": 6,
+        "category": "Motherboard",
+        "name": "ASUS ROG Strix Z590-E Gaming",
+        "price": 349.99,
+        "status": "Available",
+        "rating": 4.7,
+        "image": "https://i.ytimg.com/vi/9hQbzhAj-X4/maxresdefault.jpg"
+    },
+    {
+        "id": 7,
+        "category": "Motherboard",
+        "name": "MSI MPG B550 GAMING EDGE WIFI",
+        "price": 169.99,
+        "status": "Available",
+        "rating": 4.6,
+        "image": "https://i.ytimg.com/vi/kTf1Ot4MMSs/sddefault.jpg"
+    },
+    {
+        "id": 8,
+        "category": "Motherboard",
+        "name": "GIGABYTE Z490 AORUS Elite AC",
+        "price": 189.99,
+        "status": "Available",
+        "rating": 4.5,
+        "image": "https://media.ldlc.com/bo/images/fiches/carte-mere/gigabyte/z490/gigabyte_aorus_gaming_001.jpg"
+    },
+    {
+        "id": 9,
+        "category": "Motherboard",
+        "name": "ASRock B450M PRO4",
+        "price": 74.99,
+        "status": "Available",
+        "rating": 4.2,
+        "image": "https://microless.com/cdn/products/a3495c9c76b15e4ff3caf5189de2d126-hi.jpg"
+    },
+    {
+        "id": 10,
+        "category": "Motherboard",
+        "name": "MSI MAG B460M MORTAR WIFI",
+        "price": 129.99,
+        "status": "Available",
+        "rating": 4.3,
+        "image": "https://www.techbuy.com.au/images/large/47/P477714.jpg"
+    },
+    {
+        "id": 11,
+        "category": "RAM",
+        "name": "Corsair Vengeance LPX 16GB DDR4",
+        "price": 79.99,
+        "status": "Available",
+        "rating": 4.6,
+        "image": "https://i0.wp.com/play3r.net/wp-content/uploads/2015/08/Corsair-Vengeance-LPX-16GB-2666MHz-5.jpg?fit=1400%2C826&ssl=1"
+    },
+    {
+        "id": 12,
+        "category": "RAM",
+        "name": "Crucial Ballistix 16GB DDR4",
+        "price": 74.99,
+        "status": "Available",
+        "rating": 4.5,
+        "image": "https://uk.crucial.com/content/dam/crucial/dram-products/ballistix-udimm/images/in-use/Crucial-Ballistix-Game-Performance-Standard-Image.psd.transform/small-jpg/img.jpg"
+    },
+    {
+        "id": 13,
+        "category": "RAM",
+        "name": "G.SKILL Ripjaws V Series 32GB DDR4",
+        "price": 149.99,
+        "status": "Available",
+        "rating": 4.7,
+        "image": "https://cdn.mos.cms.futurecdn.net/34A478JPE6jDYfUXtnwXpY.png"
+    },
+    {
+        "id": 14,
+        "category": "RAM",
+        "name": "Kingston HyperX Fury 16GB DDR4",
+        "price": 82.99,
+        "status": "Available",
+        "rating": 4.4,
+        "image": "https://microless.com/cdn/products/e4bc0f7696a687d78cf1c89e7e5af97e-hi.jpg"
+    },
+    {
+        "id": 15,
+        "category": "RAM",
+        "name": "Team T-FORCE VULCAN Z 16GB DDR4",
+        "price": 76.99,
+        "status": "Available",
+        "rating": 4.3,
+        "image": "https://www.teamgroupinc.com/en/upload/product_note_pic/b89d1cfa01848db7a60a6e3cdcef1149.jpg"
+    },
+    {
+        "id": 16,
+        "category": "Power Supply Unit",
+        "name": "EVGA 600 BQ, 80+ Bronze 600W",
+        "price": 64.99,
+        "status": "Available",
+        "rating": 4.5,
+        "image": "https://m.media-amazon.com/images/I/71+muC9JwmL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 17,
+        "category": "Power Supply Unit",
+        "name": "Corsair RM750x, 80+ Gold 750W",
+        "price": 119.99,
+        "status": "Available",
+        "rating": 4.7,
+        "image": "https://cdn.mos.cms.futurecdn.net/9xcZipTCuEsjcmtE5kcpP7.jpg"
+    },
+    {
+        "id": 18,
+        "category": "Power Supply Unit",
+        "name": "Seasonic Focus GX-650, 80+ Gold 650W",
+        "price": 109.99,
+        "status": "Available",
+        "rating": 4.6,
+        "image": "https://m.media-amazon.com/images/I/71w8NAmYWdL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 19,
+        "category": "Power Supply Unit",
+        "name": "Thermaltake Toughpower GF1 750W, 80+ Gold",
+        "price": 124.99,
+        "status": "Available",
+        "rating": 4.6,
+        "image": "https://www.techporn.ph/wp-content/uploads/Thermaltake-GF1-ARGB-650W-5.jpg"
+    },
+    {
+        "id": 20,
+        "category": "Power Supply Unit",
+        "name": "Straight Power 11 850W, 80+ Gold",
+        "price": 179.90,
+        "status": "Available",
+        "rating": 4.8,
+        "image": "https://m.media-amazon.com/images/I/81EU0ntJC-L._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": 21,
+        "category": "Storage Device",
+        "name": "Samsung 970 EVO 1TB NVMe SSD",
+        "price": 149.99,
+        "status": "Available",
+        "rating": 4.7,
+        "image": "https://aiman.com.bd/image/cache/catalog/products/ssd/Samsung/Samsung%20970%20EVO%20Plus%201TB%20NVMe%20M.2%20SSD-400x400.jpg"
+    },
+    {
+        "id": 22,
+        "category": "Storage Device",
+        "name": "Crucial MX500 1TB SATA SSD",
+        "price": 99.99,
+        "status": "Available",
+        "rating": 4.5,
+        "image": "https://www.startech.com.bd/image/cache/catalog/ssd/crucial/mx500/mx500-03-500x500.webp"
+    },
+    {
+        "id": 23,
+        "category": "Storage Device",
+        "name": "Seagate Barracuda 2TB HDD",
+        "price": 54.99,
+        "status": "Available",
+        "rating": 4.3,
+        "image": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/2tb-7200rpm/2tb-7200rpm-1-500x500.jpg"
+    },
+    {
+        "id": 24,
+        "category": "Storage Device",
+        "name": "Western Digital WD Black 4TB HDD",
+        "price": 174.99,
+        "status": "Available",
+        "rating": 4.6,
+        "image": "https://www.storagereview.com/wp-content/uploads/2012/12/StorageReview-Western-Digital-Black-4TB.jpg"
+    },
+    {
+        "id": 25,
+        "category": "Storage Device",
+        "name": "Samsung 860 QVO 1TB SATA SSD",
+        "price": 229.99,
+        "status": "Available",
+        "rating": 4.4,
+        "image": "https://cdn.mos.cms.futurecdn.net/fRHTd6DG3q5MDQLtNUqYrS-480-80.jpg"
+    },
+    {
+        "id": 26,
+        "category": "Monitor",
+        "name": "Dell Ultrasharp U2719D 27-inch QHD Monitor",
+        "price": 359.99,
+        "status": "Available",
+        "rating": 4.7,
+        "image": "https://i.rtings.com/assets/products/GUEQfRW8/dell-u2719d/design-medium.jpg"
+    },
+    {
+        "id": 27,
+        "category": "Monitor",
+        "name": "LG 34GK950F-B 34-inch Ultrawide QHD Gaming Monitor",
+        "price": 799.99,
+        "status": "Available",
+        "rating": 4.8,
+        "image": "https://i.rtings.com/assets/products/VQmzDobU/lg-34gk950f-b/design-medium.jpg"
+    },
+    {
+        "id": 28,
+        "category": "Monitor",
+        "name": "ASUS ROG Swift PG279QZ 27-inch 1440p Gaming Monitor",
+        "price": 529.99,
+        "status": "Available",
+        "rating": 4.7,
+        "image": "https://i.rtings.com/assets/products/muhDpBhD/asus-rog-swift-pg279qm/design-medium.jpg"
+    },
+    {
+        "id": 29,
+        "category": "Monitor",
+        "name": "AOC CQ32G1 31.5-inch QHD Curved Gaming Monitor",
+        "price": 299.99,
+        "status": "Available",
+        "rating": 4.6,
+        "image": "https://m.media-amazon.com/images/I/81awCv2BspL._AC_UF1000,1000_QL80_.jpg"
+    },
+    {
+        "id": 30,
+        "category": "Monitor",
+        "name": "BenQ EX3501R 35-inch Ultrawide Curved QHD Monitor",
+        "price": 599.99,
+        "status": "Available",
+        "rating": 4.8,
+        "image": "https://techplatoon.com.bd/wp-content/uploads/2021/03/6119AT1bl7L._AC_SL1000_-600x600.jpg"
+    },
+    {
+        "id": 31,
+        "category": "Other",
+        "name": "Logitech MX Master 3 Wireless Mouse",
+        "price": 99.99,
+        "status": "Available",
+        "rating": 4.6,
+        "image": "https://www.custommacbd.com/cdn/shop/products/Mx-Maxter-3s-Custom-Mac-BD_1200x1200.jpg?v=1671873998"
+    },
+    {
+        "id": 32,
+        "category": "Other",
+        "name": "Corsair K95 RGB Platinum XT Mechanical Gaming Keyboard",
+        "price": 199.99,
+        "status": "Available",
+        "rating": 4.7,
+        "image": "https://pcper.com/wp-content/uploads/2020/01/corsair-k95-rgb-platinum-xt-featured.jpg"
+    },
+    {
+        "id": 33,
+        "category": "Other",
+        "name": "SteelSeries Arctis Pro Wireless Gaming Headset",
+        "price": 329.99,
+        "status": "Available",
+        "rating": 4.8,
+        "image": "https://media.steelseriescdn.com/thumbs/filer_public/45/2f/452f18cf-5a29-4399-af5a-edbc2a46d87c/arctis_pro_wl_black_livingroom_wide_4k_001.jpg__1920x1080_q100_crop-fit_optimize_subsampling-2.jpg"
+    },
+    {
+        "id": 34,
+        "category": "Other",
+        "name": "Wacom Intuos Pro Digital Graphic Drawing Tablet",
+        "price": 379.95,
+        "status": "Available",
+        "rating": 4.7,
+        "image": "https://m.media-amazon.com/images/I/51NSw4Ni0cL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": 35,
+        "category": "Other",
+        "name": "Elgato Stream Deck XL - Advanced Stream Control",
+        "price": 229.99,
+        "status": "Available",
+        "rating": 4.6,
+        "image": "https://m.media-amazon.com/images/I/71aY+mfIxiL._AC_UF1000,1000_QL80_.jpg"
+    }
+]
